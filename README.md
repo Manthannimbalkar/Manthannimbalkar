@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Python, R, ML 
+Currently working as a Data Analyst Trainee at Proneta Tech OPC Pvt Ltd 
 
 
 ## 🌐 Socials:

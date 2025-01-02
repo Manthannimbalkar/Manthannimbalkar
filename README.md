@@ -1,5 +1,14 @@
 # 💫 About Me:
-Currently working as a Data Analyst Trainee at Proneta Tech OPC Pvt Ltd 
+- 🌟 **Role**: Currently working as a Data Analyst Trainee at Proneta Tech (OPC) Pvt Ltd.  
+- 📊 **Passionate About**: Turning raw data into actionable insights and helping organizations make data-driven decisions.  
+- 🔧 **Skills**: Proficient in Python, Power BI, SQL, and Advanced Excel, with expertise in data cleaning, visualization, and analysis.  
+- 🎯 **Current Projects**: Working on data-driven solutions for political analytics, enhancing data pipelines, and creating interactive dashboards.  
+- 🎓 **Education**: Bachelor's and Master's degrees in Commerce; currently pursuing Data Science & AI at Learnbay Institute, Bangalore.  
+- 🏆 **Achievements**: Hackerrank SQL Gold Badge; built dashboards and reports that streamline decision-making for end-users.  
+- 📈 **Goals**: Aspire to specialize further in machine learning and predictive analytics while contributing to impactful real-world projects.  
+- 🌍 **Languages**: Fluent in Marathi, Hindi, English, and basic German (A2 level).  
+- 🎨 **Hobbies**: I love exploring data visualizations, watching tech documentaries, and creating content that simplifies complex concepts.  
+
 
 
 ## 🌐 Socials:

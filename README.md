@@ -10,7 +10,6 @@
 - 🎨 **Hobbies**: I love exploring data visualizations, watching tech documentaries, and creating content that simplifies complex concepts.  
 
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ManthanNimbalkar) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dataanalyst_manthan/) 
@@ -28,6 +27,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+🌐 Known Languages
+Marathi: Native proficiency
+Hindi: Fluent
+English: Professional working proficiency
+German: Basic (A2 Level)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

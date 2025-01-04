@@ -29,10 +29,11 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 🌐 Known Languages
-Marathi: Native proficiency
-Hindi: Fluent
-English: Professional working proficiency
-German: Basic (A2 Level)
+
+    Marathi: Native proficiency
+    Hindi: Fluent
+    English: Professional working proficiency
+    German: Basic (A2 Level)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

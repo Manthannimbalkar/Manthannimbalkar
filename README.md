@@ -17,20 +17,16 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/मंथननिंबाळकर) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@manthannimbalkarthedataanalyst)
 
-# 💻 Tech Stack
-## Programming & Scripting Languages
-![Python Logo](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-## Data Analytics & Visualization
-![Power BI Logo](https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau Logo](https://img.shields.io/badge/-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel Logo](https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-# Database & Backend
-![MySQL Logo](https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask Logo](https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Power BI](https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![OpenPyXL](https://img.shields.io/badge/-339933?style=for-the-badge&logo=python&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/-44A833?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Flask](https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=mysql&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

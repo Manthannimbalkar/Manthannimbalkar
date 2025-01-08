@@ -18,20 +18,21 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@manthannimbalkarthedataanalyst)
 
 # 💻 Tech Stack
-# Programming & Scripting Languages
+## Programming & Scripting Languages
 ![Python Logo](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## Data Analytics & Visualization
+![Power BI Logo](https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau Logo](https://img.shields.io/badge/-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel Logo](https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-# atabase & Backend
-![MySQL](https://img.shields.io/badge/-MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+# Database & Backend
+![MySQL Logo](https://img.shields.io/badge/-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask Logo](https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

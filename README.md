@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌟 **Role**: Currently working as a Executive Supply Chain Analyst at Caratlane - A TATA Product. 
+- 🌟 **Role**: Currently working as a Executive Supply Chain Analyst at Caratlane - A TATA Product.
 - 📊 **Passionate About**: Turning raw data into actionable insights and helping organizations make data-driven decisions.  
 - 🔧 **Skills**: Proficient in Python, Power BI, SQL, and Advanced Excel, with expertise in data cleaning, visualization, and analysis.  
 - 🎯 **Previous Projects**: Working on data-driven solutions for political analytics, enhancing data pipelines, and creating interactive dashboards.

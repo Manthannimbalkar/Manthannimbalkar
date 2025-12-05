@@ -34,19 +34,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthannimbalkar&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-# 💫 About Me:
-- 🌟 **Role**: Currently working as a Executive Supply Chain Analyst at Caratlane - A TATA Product.
-- 📊 **Passionate About**: Turning raw data into actionable insights and helping organizations make data-driven decisions. 
-- 🔧 **Skills**: Proficient in Python, Power BI, SQL, and Advanced Excel, with expertise in data cleaning, visualization, and analysis.  
-- 🎯 **Previous Projects**: Working on data-driven solutions for political analytics, enhancing data pipelines, and creating interactive dashboards.
-- 🎯 **Current Projects**: Creating a courier partner recommender website for stores, engineered to reduce delivery delays and minimize lost cases with data-driven insights.  
-- 🎓 **Education**: Bachelor's and Master's degrees in Commerce; currently pursuing Data Science & AI at Learnbay Institute, Bangalore.  
-- 🏆 **Achievements**: Hackerrank SQL Gold Badge; built dashboards and reports that streamline decision-making for end-users.  
-- 📈 **Goals**: Aspire to specialize further in machine learning and predictive analytics while contributing to impactful real-world projects.  
-- 🌍 **Languages**: Fluent in Marathi, Hindi, English, and basic German (A2 level).  
-- 🎨 **Hobbies**: I love exploring data visualizations, watching tech documentaries, and creating content that simplifies complex concepts.  
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ManthanNimbalkar) 
@@ -73,18 +60,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manthannimbalkar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=मंथन निंबाळकर)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![Profile Views](https://komarev.com/ghpvc/?username=Manthannimbalkar&color=blue)](https://github.com/Manthannimbalkar)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=मंथन निंबाळकर)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
